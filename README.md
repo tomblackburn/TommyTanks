@@ -30,8 +30,9 @@ Currently in development, **Tommy Tanks (TT)** is an open-world, head-to-head ta
 
 ## History
 
-* BT0001 - README Updated
+* BT0001 - README ipdated
 * BT0002 - Game Design Document (GDD) created
-* BT0003 - Sync and Cloned ready for Development
-* BT0004 - Created basic UE4 Project
-* BT0005 - Create Landscape at 1km x 1km in size/scale
+* BT0003 - Sync and cloned ready for development
+* BT0004 - Created basic UE4 project
+* BT0005 - Create landscape at 1km x 1km in size/scale
+* BT0006 - Sculpted landscape for the battle arena
