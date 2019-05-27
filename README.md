@@ -32,4 +32,4 @@ Currently in development, **Tommy Tanks (TT)** is an open-world, head-to-head ta
 
 * BT0001 - README Updated
 * BT0002 - Game Design Document (GDD) created
-
+* BT0003 - Sync and Cloned ready for Development
